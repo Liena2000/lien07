@@ -1,0 +1,23 @@
+{
+  "name": "csy3056-ii",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000l\u0000i\u0000e\u0000n\u00000\u00007\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liena2000/lien07.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liena2000/lien07/issues"
+  },
+  "homepage": "https://github.com/Liena2000/lien07#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

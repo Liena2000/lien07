@@ -13,7 +13,7 @@ pipeline {
             steps {
             bat '''
             echo "== Starting Build =="
-            cd "C:\ProgramData\Jenkins\.jenkins\workspace\SimpleApp-CI"
+            cd "%workspace%"
             mkdir build // Ensures build folder exists
             npm install
             echo "== Build Completed! =="

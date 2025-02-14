@@ -6,7 +6,7 @@ pipeline {
     stage('Clone Repository') {
         steps {
             git branch: 'main', url:
-            'https://github.com/Liena2000/csy3056.git'
+            'https://github.com/Liena2000/lien07.git'
             }
             }
             stage('Build') {
